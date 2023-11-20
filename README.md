@@ -25,3 +25,9 @@
   10. create route for /api/products
   11. return products
   12. npm run start
+8. fetch products
+  1. set proxy in package.json
+  2. npm install axios
+  3. useState hook
+  4. useEffect hook
+  5. useReducer
