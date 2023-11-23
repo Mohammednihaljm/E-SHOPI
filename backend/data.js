@@ -37,7 +37,7 @@ const data={
     description:"high qualty shirt"
 },{
     name:"NIKE SLIM SHIRT",
-    slug: "addidad-slim-shirt",
+    slug: "addi-slim-shirt",
     category:"shirts",
     image:"/images/P4.jpg",
     price:120,
@@ -48,7 +48,7 @@ const data={
     description:"high qualty shirt"
 },{
     name:"NIKE SLIM SHIRT",
-    slug: "Nike-slim-shirt",
+    slug: "Nik-slim-shirt",
     category:"shirts",
     image:"/images/p1.jpg",
     price:120,
@@ -59,7 +59,7 @@ const data={
     description:"high qualty shirt"
 },{
     name:"NIKE SLIM SHIRT",
-    slug: "addidad-slim-shirt",
+    slug: "addidu-slim-shirt",
     category:"shirts",
     image:"/images/P4.jpg",
     price:120,

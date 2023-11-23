@@ -31,3 +31,11 @@
   3. useState hook
   4. useEffect hook
   5. useReducer
+9. mange stae reducer hook
+  1. define reducer
+  2. update fetch data
+  3. get state from usereducer
+10. add to bootstrap frame work
+   1. npm install react-bootstrap bootstrap --force
+   2. update app.js
+    npm install react-router-bootstrap    
